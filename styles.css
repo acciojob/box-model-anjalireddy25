@@ -10,24 +10,27 @@
 	display:flex;
 	align-items:center;
 	justify-content:space-between;
-}
-.circle{
-	width:100px;
-	height:100px;
-	border-radius:60px;
-	
-}
-#green{
+}	
+.green{
 	background-color:green;
 	position:relative;
 	left:65px;
+	width:100px;
+	height:100px;
+	border-radius:60px;
 }
-#yellow{
+.yellow{
 	background-color:yellow;
+	width:100px;
+	height:100px;
+	border-radius:60px;
 }
-#red{
+.red{
 	background-color:red;
 	position:relative;
 	right:65px;
+	width:100px;
+	height:100px;
+	border-radius:60px;
 }
 
